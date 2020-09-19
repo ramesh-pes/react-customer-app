@@ -25,28 +25,28 @@ import HocExample from "./containers/HocExample";
 
 function App() {
   return (
-    <ProvideAuth>q
+    
     <Router>
       <div style={{ marginLeft: 30 }}>
         <Switch>
           <Route exact path="/" component={Login} />
           <Route exact path="/login" component={Login} />
-          <PrivateRoute  exact path="/home">
-            <Home/>
-          </PrivateRoute>
+          <Route  exact path="/home" component={Home}>
+            
+          </Route>
           
-          <PrivateRoute exact path="/about" component={About} ><About/></PrivateRoute>
-          <PrivateRoute exact path="/customer-app" component={CustomerApp} />
-          <PrivateRoute exact path="/customer" component={Customer} />
-          <PrivateRoute exact path="/customer/add" component={CustomerAdd} />
-          <PrivateRoute exact path="/customer/edit/:id" component={CustomerEdit} />
+          <Route exact path="/about" component={About} ></Route>
+          <Route exact path="/customer-app" component={CustomerApp} />
+          <Route exact path="/customer" component={Customer} />
+          <Route exact path="/customer/add" component={CustomerAdd} />
+          <Route exact path="/customer/edit/:id" component={CustomerEdit} />
           <Route exact path="/temperature" component={Calculator} />
           <Route exact path="/maths" component={Maths} />
           <Route exact path="/hocexample" component={HocExample} />
         </Switch>
       </div>
     </Router>
-    </ProvideAuth>
+    
   );
 }
 

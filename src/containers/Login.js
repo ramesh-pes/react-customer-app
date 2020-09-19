@@ -27,7 +27,7 @@ class Login extends Component {
     if (this.state.email === this.state.password) {
       localStorage.setItem('user',this.state.email)
       
-      this.props.history.push("/customer-app");
+      this.props.history.push("/home");
     } else {
       alert("InCorrect email or password, please try again");
     }

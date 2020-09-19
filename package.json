@@ -2,7 +2,7 @@
   "name": "react-customer-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ramesh-pes/react-customer-app",
+  "homepage": "https://ramesh-pes.github.io/react-customer-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
