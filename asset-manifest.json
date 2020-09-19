@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ramesh-pes/react-customer-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ramesh-pes/react-customer-app/static/js/main.1330a90c.chunk.js",
+    "main.js.map": "/ramesh-pes/react-customer-app/static/js/main.1330a90c.chunk.js.map",
+    "runtime-main.js": "/ramesh-pes/react-customer-app/static/js/runtime-main.611d3af2.js",
+    "runtime-main.js.map": "/ramesh-pes/react-customer-app/static/js/runtime-main.611d3af2.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/ramesh-pes/react-customer-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6dfbfc87.chunk.js": "/ramesh-pes/react-customer-app/static/js/2.6dfbfc87.chunk.js",
+    "static/js/2.6dfbfc87.chunk.js.map": "/ramesh-pes/react-customer-app/static/js/2.6dfbfc87.chunk.js.map",
+    "index.html": "/ramesh-pes/react-customer-app/index.html",
+    "precache-manifest.8de6ae1517b8cfc8907ced6ac38e457d.js": "/ramesh-pes/react-customer-app/precache-manifest.8de6ae1517b8cfc8907ced6ac38e457d.js",
+    "service-worker.js": "/ramesh-pes/react-customer-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/ramesh-pes/react-customer-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ramesh-pes/react-customer-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6dfbfc87.chunk.js.LICENSE.txt": "/ramesh-pes/react-customer-app/static/js/2.6dfbfc87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611d3af2.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6dfbfc87.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1330a90c.chunk.js"
+  ]
+}
